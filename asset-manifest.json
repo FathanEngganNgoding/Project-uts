@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-uts/static/css/main.a800366f.css",
+    "main.js": "/project-uts/static/js/main.d4f115cb.js",
+    "index.html": "/project-uts/index.html",
+    "main.a800366f.css.map": "/project-uts/static/css/main.a800366f.css.map",
+    "main.d4f115cb.js.map": "/project-uts/static/js/main.d4f115cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a800366f.css",
+    "static/js/main.d4f115cb.js"
+  ]
+}
