@@ -34,6 +34,9 @@ const NavigationBar = () => {
             <Nav.Link as={NavLink} to="/about" className="nav-link-custom">
               About
             </Nav.Link>
+            <Nav.Link as={NavLink} to="/event" className="nav-link-custom">
+              Event & Berita
+            </Nav.Link>
             <Nav.Link as={NavLink} to="/services" className="nav-link-custom">
               Services
             </Nav.Link>
